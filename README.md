@@ -6,18 +6,18 @@
 
 ## 推荐
 
-- [推荐](推荐/README.md)
+- [推荐](docs/推荐/README.md)
 
 ## 他山之石
 
-- [项目开源](他山之石/项目开源.md)
-- [Git](他山之石/git.md)
-- [工作](他山之石/job.md)
-- [文档编辑](他山之石/文档编辑.md)
-- [实用工具](他山之石/实用工具.md)
-- [Web](他山之石/web.md)
-- [实用 Python 包](他山之石/python.md)
-- [深度学习](他山之石/深度学习.md)
+- [项目开源](docs/他山之石/项目开源.md)
+- [Git](docs/他山之石/git.md)
+- [工作](docs/他山之石/job.md)
+- [文档编辑](docs/他山之石/文档编辑.md)
+- [实用工具](docs/他山之石/实用工具.md)
+- [Web](docs/他山之石/web.md)
+- [实用 Python 包](docs/他山之石/python.md)
+- [深度学习](docs/他山之石/深度学习.md)
 
 ## 关于我
 
@@ -26,5 +26,5 @@
 - [论文解读与实现](https://papers-collection.github.io/DecodePaper/)
 - [研究计划](TODOS.md)
 - [各种不成熟的奇思妙想](https://xinetzone.github.io/chaos/)
-- [个人项目](myCV.md)
+- [个人项目](docs/myCV.md)
 - [Python 相关资源](https://xinetzone.github.io/pythonsome/)
