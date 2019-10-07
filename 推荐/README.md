@@ -1,4 +1,6 @@
-## 推荐
+## 推荐专栏
+
+### 1. jekyll 推荐
 
 1. Github Pages 的一份不错的主题模板，设置 `_config.yml` 为：
 

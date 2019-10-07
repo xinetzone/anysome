@@ -4,16 +4,24 @@
 
 搜集一些有趣的资源。
 
-<details>
-<summary>资源站：</summary>
+## 推荐专栏
 
-- [推荐](推荐.md)
-- [项目开源](项目开源.md)
-- [Git](git.md)
-- [工作](job.md)
-- [文档编辑](文档编辑.md)
-- [实用工具](实用工具.md)
-- [Web](web)
+- [推荐](推荐/README.md)
 
-</details>
+## 他山之石
 
+- [项目开源](他山之石/项目开源.md)
+- [Git](他山之石/git.md)
+- [工作](他山之石/job.md)
+- [文档编辑](他山之石/文档编辑.md)
+- [实用工具](他山之石/实用工具.md)
+- [Web](他山之石/web.md)
+- [实用 Python 包](他山之石/python.md)
+
+## 我的网站
+
+[GitHub 博客](https://xinetzone.github.io/) | [慕课网](https://www.imooc.com/u/5467447/) | [简书](https://www.jianshu.com/u/4302480a3e8e) | [博客园](https://www.cnblogs.com/q735613050/) | [阿里云栖](https://yq.aliyun.com/users/yderly3p2swcc/article?spm=a2c4e.11155435.0.0.2fa83a9bZIub8I)
+
+## TODOS
+
+- [深度学习资源库](TODOS/深度学习资源库.md)
