@@ -25,6 +25,8 @@
 ## Google 课程资源
 
 - [机器学习速成课程](https://developers.google.com/machine-learning/crash-course)
+- [机器学习实践课程](https://developers.google.com/machine-learning/practica)
+- [机器学习指南](https://developers.google.com/machine-learning/guides)
 - [Google Product Index](https://developers.google.com/products)
 
 ## 关于我
