@@ -7,6 +7,8 @@
 ## 推荐
 
 - [推荐](docs/推荐/README.md)
+- [机器学习术语表](https://developers.google.com/machine-learning/glossary)
+- [关于机器学习工程的最佳实践](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 ## 他山之石
 
@@ -19,6 +21,11 @@
 - [实用 Python 包](docs/他山之石/python.md)
 - [深度学习](docs/他山之石/深度学习.md)
 - [未分类](docs/他山之石/raw.md)
+
+## Google 课程资源
+
+- [机器学习速成课程](https://developers.google.com/machine-learning/crash-course)
+- [Google Product Index](https://developers.google.com/products)
 
 ## 关于我
 
