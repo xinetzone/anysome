@@ -21,6 +21,7 @@
 - [实用 Python 包](docs/他山之石/python.md)
 - [深度学习](docs/他山之石/深度学习.md)
 - [未分类](docs/他山之石/raw.md)
+- [将 MATLAB 与 Python 结合使用](https://ww2.mathworks.cn/products/matlab/matlab-and-python.html)
 
 ## Google 课程资源
 
